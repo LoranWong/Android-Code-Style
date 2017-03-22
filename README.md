@@ -6,27 +6,26 @@
 Table of Contents
 =================
 
-   * [Chuxin Android Coding Style &amp; 以前在公司的代码规范，可在组内推行](#chuxin-android-coding-style--以前在公司的代码规范可在组内推行)
-      * [1 Project structure 工程结构](#1-project-structure-工程结构)
+   * [1 Project structure 工程结构](#1-project-structure-工程结构)
             * [1.1 Notice 说明](#11-notice-说明)
-               * [1.2 Resources directory structure	资源文件夹结构](#12-resources-directory-structure资源文件夹结构)
-      * [2 Package Manner 包管理规范](#2-package-manner-包管理规范)
+            * [1.2 Resources directory structure 资源文件夹结构](#12-resources-directory-structure资源文件夹结构)
+   * [2 Package Manner 包管理规范](#2-package-manner-包管理规范)
             * [2.1 General 通用](#21-general-通用)
             * [2.2 App 包结构](#22-app-包结构)
-      * [3 File Naming 文件命名](#3-file-naming-文件命名)
+   * [3 File Naming 文件命名](#3-file-naming-文件命名)
             * [3.1 Class files 类文件命名](#31-class-files-类文件命名)
             * [3.2 Resources files 资源文件](#32-resources-files-资源文件)
             * [3.3 Drawable files](#33-drawable-files)
             * [3.4 Layout files 布局文件](#34-layout-files-布局文件)
-      * [4 Inside Code Naming  代码内部命名](#4-inside-code-naming--代码内部命名)
+   * [4 Inside Code Naming  代码内部命名](#4-inside-code-naming--代码内部命名)
             * [4.1 Class Variable Naming 类变量命名](#41-class-variable-naming-类变量命名)
             * [4.2 Class Method Naming 类方法命名](#42-class-method-naming-类方法命名)
             * [4.3 layout.xml 布局文件变量命名](#43-layoutxml-布局文件变量命名)
             * [4.4 strings.xml  dimens.xml  colors.xml  xml变量命名](#44-stringsxml--dimensxml--colorsxml--xml变量命名)
             * [4.5 额外注意](#45-额外注意)
-      * [5  Code Manner 代码规范](#5--code-manner-代码规范)
-      * [6 Constant 内部类解析](#6-constant-内部类解析)
-      * [7 Git 提交规范](#7-git-提交规范)
+    * [5  Code Manner 代码规范](#5--code-manner-代码规范)
+    * [6 Constant 内部类解析](#6-constant-内部类解析)
+    * [7 Git 提交规范](#7-git-提交规范)
 
 ## 1 Project structure 工程结构
 
