@@ -1,6 +1,6 @@
 #	Chuxin Android Coding Style & 以前在公司的代码规范，可在组内推行
 
->**初心网络安卓组代码规范说明  @author [JackWong黄绿蓝](http://loranwong.com) ,      [LexLuther梁世宇](http://weibo.com/n/明日叙)**
+>**初心网络安卓组代码规范说明  @author [LoranWong黄绿蓝](http://loranwong.com) ,      [LexLuther梁世宇](http://weibo.com/n/明日叙)**
 >最后编辑于 2016年09月21日19:04:25
 
 Table of Contents
